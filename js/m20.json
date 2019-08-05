@@ -1,0 +1,1186 @@
+{
+"Siri": {
+"ServiceDelivery": {
+"ResponseTimestamp": "2019-08-04T22:21:41.588-04:00",
+"VehicleMonitoringDelivery": [
+{
+"VehicleActivity": [
+{
+"MonitoredVehicleJourney": {
+"LineRef": "MTA NYCT_M20",
+"DirectionRef": "0",
+"FramedVehicleJourneyRef": {
+"DataFrameRef": "2019-08-04",
+"DatedVehicleJourneyRef": "MTA NYCT_MQ_C9-Sunday-128500_M20_10"
+},
+"JourneyPatternRef": "MTA_M200121",
+"PublishedLineName": "M20",
+"OperatorRef": "MTA NYCT",
+"OriginRef": "MTA_803184",
+"DestinationRef": "MTA_400858",
+"DestinationName": "LINCOLN CENTER 66 ST via 8 AV",
+"SituationRef": [],
+"Monitored": true,
+"VehicleLocation": {
+"Longitude": -73.982272,
+"Latitude": 40.7718
+},
+"Bearing": 272.1927,
+"ProgressRate": "normalProgress",
+"BlockRef": "MTA NYCT_MQ_C9-Sunday_D_MQ_30240_M20-5",
+"VehicleRef": "MTA NYCT_4332",
+"MonitoredCall": {
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 10262.05,
+"DistanceFromCall": 0,
+"PresentableDistance": "at stop"
+}
+},
+"StopPointRef": "MTA_400858",
+"VisitNumber": 1,
+"StopPointName": "BROADWAY/W 64 ST"
+},
+"OnwardCalls": {
+"OnwardCall": [
+{
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 10262.05,
+"DistanceFromCall": 0,
+"PresentableDistance": "at stop"
+}
+},
+"StopPointRef": "MTA_400858",
+"StopPointName": "BROADWAY/W 64 ST"
+}
+]
+}
+},
+"RecordedAtTime": "2019-08-04T22:21:24.000-04:00"
+},
+{
+"MonitoredVehicleJourney": {
+"LineRef": "MTA NYCT_M20",
+"DirectionRef": "0",
+"FramedVehicleJourneyRef": {
+"DataFrameRef": "2019-08-04",
+"DatedVehicleJourneyRef": "MTA NYCT_MQ_C9-Sunday-130500_M20_16"
+},
+"JourneyPatternRef": "MTA_M200121",
+"PublishedLineName": "M20",
+"OperatorRef": "MTA NYCT",
+"OriginRef": "MTA_803184",
+"DestinationRef": "MTA_400858",
+"DestinationName": "LINCOLN CENTER 66 ST via 8 AV",
+"SituationRef": [],
+"Monitored": true,
+"VehicleLocation": {
+"Longitude": -73.992074,
+"Latitude": 40.75409
+},
+"Bearing": 54.027615,
+"ProgressRate": "normalProgress",
+"BlockRef": "MTA NYCT_MQ_C9-Sunday_D_MQ_24240_M20-2",
+"VehicleRef": "MTA NYCT_3804",
+"MonitoredCall": {
+"ExpectedArrivalTime": "2019-08-04T22:22:04.750-04:00",
+"ExpectedDepartureTime": "2019-08-04T22:22:04.750-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 7544.43,
+"DistanceFromCall": 143.84,
+"PresentableDistance": "approaching"
+}
+},
+"StopPointRef": "MTA_403552",
+"VisitNumber": 1,
+"StopPointName": "8 AV/W 39 ST"
+},
+"OnwardCalls": {
+"OnwardCall": [
+{
+"ExpectedArrivalTime": "2019-08-04T22:22:04.750-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 7544.43,
+"DistanceFromCall": 143.84,
+"PresentableDistance": "approaching"
+}
+},
+"StopPointRef": "MTA_403552",
+"StopPointName": "8 AV/W 39 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:23:19.178-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 1,
+"CallDistanceAlongRoute": 7701.1,
+"DistanceFromCall": 300.51,
+"PresentableDistance": "1 stop away"
+}
+},
+"StopPointRef": "MTA_401850",
+"StopPointName": "8 AV/W 40 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:25:25.383-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 2,
+"CallDistanceAlongRoute": 7902.95,
+"DistanceFromCall": 502.36,
+"PresentableDistance": "2 stops away"
+}
+},
+"StopPointRef": "MTA_404919",
+"StopPointName": "8 AV/W 43 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:26:43.981-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 3,
+"CallDistanceAlongRoute": 8082.27,
+"DistanceFromCall": 681.68,
+"PresentableDistance": "3 stops away"
+}
+},
+"StopPointRef": "MTA_404872",
+"StopPointName": "8 AV/W 46 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:28:14.563-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 4,
+"CallDistanceAlongRoute": 8398.64,
+"DistanceFromCall": 998.05,
+"PresentableDistance": "0.6 miles away"
+}
+},
+"StopPointRef": "MTA_404846",
+"StopPointName": "8 AV/W 49 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:29:24.836-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 5,
+"CallDistanceAlongRoute": 8638.09,
+"DistanceFromCall": 1237.5,
+"PresentableDistance": "0.8 miles away"
+}
+},
+"StopPointRef": "MTA_401239",
+"StopPointName": "8 AV/W 52 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:30:37.156-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 6,
+"CallDistanceAlongRoute": 8954.17,
+"DistanceFromCall": 1553.58,
+"PresentableDistance": "1.0 miles away"
+}
+},
+"StopPointRef": "MTA_405393",
+"StopPointName": "8 AV/W  56 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:32:23.556-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 7,
+"CallDistanceAlongRoute": 9304.18,
+"DistanceFromCall": 1903.6,
+"PresentableDistance": "1.2 miles away"
+}
+},
+"StopPointRef": "MTA_404871",
+"StopPointName": "CENTRAL PK W/COLUMBUS CIR"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:33:30.300-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 8,
+"CallDistanceAlongRoute": 9556.45,
+"DistanceFromCall": 2155.86,
+"PresentableDistance": "1.3 miles away"
+}
+},
+"StopPointRef": "MTA_404049",
+"StopPointName": "CENTRAL PK W/W 63 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:34:44.338-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 9,
+"CallDistanceAlongRoute": 9810.96,
+"DistanceFromCall": 2410.37,
+"PresentableDistance": "1.5 miles away"
+}
+},
+"StopPointRef": "MTA_403510",
+"StopPointName": "W 66 ST/CENTRAL PK W"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:35:30.996-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 10,
+"CallDistanceAlongRoute": 10029.6,
+"DistanceFromCall": 2629.01,
+"PresentableDistance": "1.6 miles away"
+}
+},
+"StopPointRef": "MTA_403779",
+"StopPointName": "W 66 ST/COLUMBUS AV"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:37:23.796-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 11,
+"CallDistanceAlongRoute": 10262.05,
+"DistanceFromCall": 2861.46,
+"PresentableDistance": "1.8 miles away"
+}
+},
+"StopPointRef": "MTA_400858",
+"StopPointName": "BROADWAY/W 64 ST"
+}
+]
+}
+},
+"RecordedAtTime": "2019-08-04T22:21:13.000-04:00"
+},
+{
+"MonitoredVehicleJourney": {
+"LineRef": "MTA NYCT_M20",
+"DirectionRef": "0",
+"FramedVehicleJourneyRef": {
+"DataFrameRef": "2019-08-04",
+"DatedVehicleJourneyRef": "MTA NYCT_MQ_C9-Sunday-132500_M20_12"
+},
+"JourneyPatternRef": "MTA_M200121",
+"PublishedLineName": "M20",
+"OperatorRef": "MTA NYCT",
+"OriginRef": "MTA_803184",
+"DestinationRef": "MTA_400858",
+"DestinationName": "LINCOLN CENTER 66 ST via 8 AV",
+"SituationRef": [],
+"Monitored": true,
+"VehicleLocation": {
+"Longitude": -74.004714,
+"Latitude": 40.737648
+},
+"Bearing": 40.126102,
+"ProgressRate": "normalProgress",
+"BlockRef": "MTA NYCT_MQ_C9-Sunday_D_MQ_32640_M20-7",
+"VehicleRef": "MTA NYCT_6736",
+"MonitoredCall": {
+"ExpectedArrivalTime": "2019-08-04T22:22:16.775-04:00",
+"ExpectedDepartureTime": "2019-08-04T22:22:16.775-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 5425.34,
+"DistanceFromCall": 145.03,
+"PresentableDistance": "approaching"
+}
+},
+"StopPointRef": "MTA_401609",
+"VisitNumber": 1,
+"StopPointName": "8 AV/W 4 ST"
+},
+"OnwardCalls": {
+"OnwardCall": [
+{
+"ExpectedArrivalTime": "2019-08-04T22:22:16.775-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 5425.34,
+"DistanceFromCall": 145.03,
+"PresentableDistance": "approaching"
+}
+},
+"StopPointRef": "MTA_401609",
+"StopPointName": "8 AV/W 4 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:23:00.615-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 1,
+"CallDistanceAlongRoute": 5602.77,
+"DistanceFromCall": 322.46,
+"PresentableDistance": "1 stop away"
+}
+},
+"StopPointRef": "MTA_401223",
+"StopPointName": "8 AV/W 14 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:24:22.815-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 2,
+"CallDistanceAlongRoute": 5858.21,
+"DistanceFromCall": 577.9,
+"PresentableDistance": "2 stops away"
+}
+},
+"StopPointRef": "MTA_401224",
+"StopPointName": "8 AV/W 17 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:25:21.614-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 3,
+"CallDistanceAlongRoute": 6079.53,
+"DistanceFromCall": 799.22,
+"PresentableDistance": "3 stops away"
+}
+},
+"StopPointRef": "MTA_401225",
+"StopPointName": "8 AV/W 20 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:26:51.548-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 4,
+"CallDistanceAlongRoute": 6326.49,
+"DistanceFromCall": 1046.18,
+"PresentableDistance": "0.7 miles away"
+}
+},
+"StopPointRef": "MTA_401226",
+"StopPointName": "8 AV/W 23 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:27:50.727-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 5,
+"CallDistanceAlongRoute": 6486.48,
+"DistanceFromCall": 1206.17,
+"PresentableDistance": "0.7 miles away"
+}
+},
+"StopPointRef": "MTA_401227",
+"StopPointName": "8 AV/W 25 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:28:54.775-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 6,
+"CallDistanceAlongRoute": 6720,
+"DistanceFromCall": 1439.69,
+"PresentableDistance": "0.9 miles away"
+}
+},
+"StopPointRef": "MTA_401229",
+"StopPointName": "8 AV/W 28 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:29:56.575-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 7,
+"CallDistanceAlongRoute": 6880.51,
+"DistanceFromCall": 1600.2,
+"PresentableDistance": "1.0 miles away"
+}
+},
+"StopPointRef": "MTA_404847",
+"StopPointName": "8 AV/W 31 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:32:09.541-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 8,
+"CallDistanceAlongRoute": 7181.05,
+"DistanceFromCall": 1900.74,
+"PresentableDistance": "1.2 miles away"
+}
+},
+"StopPointRef": "MTA_401231",
+"StopPointName": "8 AV/W 34 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:33:50.504-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 9,
+"CallDistanceAlongRoute": 7389.52,
+"DistanceFromCall": 2109.21,
+"PresentableDistance": "1.3 miles away"
+}
+},
+"StopPointRef": "MTA_401232",
+"StopPointName": "8 AV/W 37 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:34:46.235-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 10,
+"CallDistanceAlongRoute": 7544.43,
+"DistanceFromCall": 2264.12,
+"PresentableDistance": "1.4 miles away"
+}
+},
+"StopPointRef": "MTA_403552",
+"StopPointName": "8 AV/W 39 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:36:00.663-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 11,
+"CallDistanceAlongRoute": 7701.1,
+"DistanceFromCall": 2420.79,
+"PresentableDistance": "1.5 miles away"
+}
+},
+"StopPointRef": "MTA_401850",
+"StopPointName": "8 AV/W 40 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:38:06.868-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 12,
+"CallDistanceAlongRoute": 7902.95,
+"DistanceFromCall": 2622.64,
+"PresentableDistance": "1.6 miles away"
+}
+},
+"StopPointRef": "MTA_404919",
+"StopPointName": "8 AV/W 43 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:39:25.466-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 13,
+"CallDistanceAlongRoute": 8082.27,
+"DistanceFromCall": 2801.96,
+"PresentableDistance": "1.7 miles away"
+}
+},
+"StopPointRef": "MTA_404872",
+"StopPointName": "8 AV/W 46 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:40:56.048-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 14,
+"CallDistanceAlongRoute": 8398.64,
+"DistanceFromCall": 3118.33,
+"PresentableDistance": "1.9 miles away"
+}
+},
+"StopPointRef": "MTA_404846",
+"StopPointName": "8 AV/W 49 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:42:06.321-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 15,
+"CallDistanceAlongRoute": 8638.09,
+"DistanceFromCall": 3357.78,
+"PresentableDistance": "2.1 miles away"
+}
+},
+"StopPointRef": "MTA_401239",
+"StopPointName": "8 AV/W 52 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:43:18.641-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 16,
+"CallDistanceAlongRoute": 8954.17,
+"DistanceFromCall": 3673.86,
+"PresentableDistance": "2.3 miles away"
+}
+},
+"StopPointRef": "MTA_405393",
+"StopPointName": "8 AV/W  56 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:45:05.041-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 17,
+"CallDistanceAlongRoute": 9304.18,
+"DistanceFromCall": 4023.87,
+"PresentableDistance": "2.5 miles away"
+}
+},
+"StopPointRef": "MTA_404871",
+"StopPointName": "CENTRAL PK W/COLUMBUS CIR"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:46:11.785-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 18,
+"CallDistanceAlongRoute": 9556.45,
+"DistanceFromCall": 4276.14,
+"PresentableDistance": "2.7 miles away"
+}
+},
+"StopPointRef": "MTA_404049",
+"StopPointName": "CENTRAL PK W/W 63 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:47:25.823-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 19,
+"CallDistanceAlongRoute": 9810.96,
+"DistanceFromCall": 4530.65,
+"PresentableDistance": "2.8 miles away"
+}
+},
+"StopPointRef": "MTA_403510",
+"StopPointName": "W 66 ST/CENTRAL PK W"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:48:12.481-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 20,
+"CallDistanceAlongRoute": 10029.6,
+"DistanceFromCall": 4749.29,
+"PresentableDistance": "3.0 miles away"
+}
+},
+"StopPointRef": "MTA_403779",
+"StopPointName": "W 66 ST/COLUMBUS AV"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:50:05.281-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 21,
+"CallDistanceAlongRoute": 10262.05,
+"DistanceFromCall": 4981.74,
+"PresentableDistance": "3.1 miles away"
+}
+},
+"StopPointRef": "MTA_400858",
+"StopPointName": "BROADWAY/W 64 ST"
+}
+]
+}
+},
+"RecordedAtTime": "2019-08-04T22:21:40.000-04:00"
+},
+{
+"MonitoredVehicleJourney": {
+"LineRef": "MTA NYCT_M20",
+"DirectionRef": "1",
+"FramedVehicleJourneyRef": {
+"DataFrameRef": "2019-08-04",
+"DatedVehicleJourneyRef": "MTA NYCT_MQ_C9-Sunday-129900_M20_18"
+},
+"JourneyPatternRef": "MTA_M200122",
+"PublishedLineName": "M20",
+"OperatorRef": "MTA NYCT",
+"OriginRef": "MTA_401348",
+"DestinationRef": "MTA_803185",
+"DestinationName": "SOUTH FERRY via 7 AV via BAT PK CITY",
+"SituationRef": [],
+"Monitored": true,
+"VehicleLocation": {
+"Longitude": -74.014544,
+"Latitude": 40.70461
+},
+"Bearing": 341.56506,
+"ProgressRate": "normalProgress",
+"BlockRef": "MTA NYCT_MQ_C9-Sunday_D_MQ_23520_M20-1",
+"VehicleRef": "MTA NYCT_3817",
+"MonitoredCall": {
+"ExpectedArrivalTime": "2019-08-04T22:22:16.771-04:00",
+"ExpectedDepartureTime": "2019-08-04T22:22:16.771-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 9742.1,
+"DistanceFromCall": 156.24,
+"PresentableDistance": "< 1 stop away"
+}
+},
+"StopPointRef": "MTA_403953",
+"VisitNumber": 1,
+"StopPointName": "STATE ST/BRIDGE ST"
+},
+"OnwardCalls": {
+"OnwardCall": [
+{
+"ExpectedArrivalTime": "2019-08-04T22:22:16.771-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 9742.1,
+"DistanceFromCall": 156.24,
+"PresentableDistance": "< 1 stop away"
+}
+},
+"StopPointRef": "MTA_403953",
+"StopPointName": "STATE ST/BRIDGE ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:23:02.171-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 1,
+"CallDistanceAlongRoute": 9935.99,
+"DistanceFromCall": 350.14,
+"PresentableDistance": "1 stop away"
+}
+},
+"StopPointRef": "MTA_803185",
+"StopPointName": "STATE ST/WHITEHALL ST"
+}
+]
+}
+},
+"RecordedAtTime": "2019-08-04T22:21:32.000-04:00"
+},
+{
+"MonitoredVehicleJourney": {
+"LineRef": "MTA NYCT_M20",
+"DirectionRef": "1",
+"FramedVehicleJourneyRef": {
+"DataFrameRef": "2019-08-04",
+"DatedVehicleJourneyRef": "MTA NYCT_MQ_C9-Sunday-127900_M20_13"
+},
+"JourneyPatternRef": "MTA_M200122",
+"PublishedLineName": "M20",
+"OperatorRef": "MTA NYCT",
+"OriginRef": "MTA_401348",
+"DestinationRef": "MTA_803185",
+"DestinationName": "SOUTH FERRY via 7 AV via BAT PK CITY",
+"SituationRef": [],
+"Monitored": true,
+"VehicleLocation": {
+"Longitude": -74.016502,
+"Latitude": 40.70979
+},
+"Bearing": 246.37062,
+"ProgressRate": "normalProgress",
+"BlockRef": "MTA NYCT_MQ_C9-Sunday_D_MQ_26040_M20-4",
+"VehicleRef": "MTA NYCT_4127",
+"MonitoredCall": {
+"ExpectedArrivalTime": "2019-08-04T22:21:59.447-04:00",
+"ExpectedDepartureTime": "2019-08-04T22:21:59.447-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 8879.44,
+"DistanceFromCall": 182.85,
+"PresentableDistance": "< 1 stop away"
+}
+},
+"StopPointRef": "MTA_405125",
+"VisitNumber": 1,
+"StopPointName": "WEST THAMES ST/SOUTH END AV"
+},
+"OnwardCalls": {
+"OnwardCall": [
+{
+"ExpectedArrivalTime": "2019-08-04T22:21:59.447-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 8879.44,
+"DistanceFromCall": 182.85,
+"PresentableDistance": "< 1 stop away"
+}
+},
+"StopPointRef": "MTA_405125",
+"StopPointName": "WEST THAMES ST/SOUTH END AV"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:22:36.528-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 1,
+"CallDistanceAlongRoute": 9051.09,
+"DistanceFromCall": 354.49,
+"PresentableDistance": "1 stop away"
+}
+},
+"StopPointRef": "MTA_404979",
+"StopPointName": "BATTERY PL/3 PL"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:23:06.528-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 2,
+"CallDistanceAlongRoute": 9220.49,
+"DistanceFromCall": 523.89,
+"PresentableDistance": "2 stops away"
+}
+},
+"StopPointRef": "MTA_404980",
+"StopPointName": "BATTERY PL/1 PL"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:24:06.514-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 3,
+"CallDistanceAlongRoute": 9496.58,
+"DistanceFromCall": 799.98,
+"PresentableDistance": "3 stops away"
+}
+},
+"StopPointRef": "MTA_803164",
+"StopPointName": "BATTERY PL/WASHINGTON ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:25:16.869-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 4,
+"CallDistanceAlongRoute": 9742.1,
+"DistanceFromCall": 1045.5,
+"PresentableDistance": "0.6 miles away"
+}
+},
+"StopPointRef": "MTA_403953",
+"StopPointName": "STATE ST/BRIDGE ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:26:02.269-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 5,
+"CallDistanceAlongRoute": 9935.99,
+"DistanceFromCall": 1239.4,
+"PresentableDistance": "0.8 miles away"
+}
+},
+"StopPointRef": "MTA_803185",
+"StopPointName": "STATE ST/WHITEHALL ST"
+}
+]
+}
+},
+"RecordedAtTime": "2019-08-04T22:21:17.000-04:00"
+},
+{
+"MonitoredVehicleJourney": {
+"LineRef": "MTA NYCT_M20",
+"DirectionRef": "1",
+"FramedVehicleJourneyRef": {
+"DataFrameRef": "2019-08-04",
+"DatedVehicleJourneyRef": "MTA NYCT_MQ_C9-Sunday-131900_M20_15"
+},
+"JourneyPatternRef": "MTA_M200122",
+"PublishedLineName": "M20",
+"OperatorRef": "MTA NYCT",
+"OriginRef": "MTA_401348",
+"DestinationRef": "MTA_803185",
+"DestinationName": "SOUTH FERRY via 7 AV via BAT PK CITY",
+"SituationRef": [],
+"Monitored": true,
+"VehicleLocation": {
+"Longitude": -73.99362,
+"Latitude": 40.74684
+},
+"Bearing": 234.51897,
+"ProgressRate": "normalProgress",
+"BlockRef": "MTA NYCT_MQ_C9-Sunday_D_MQ_36240_M20-8",
+"VehicleRef": "MTA NYCT_6747",
+"MonitoredCall": {
+"ExpectedArrivalTime": "2019-08-04T22:22:33.930-04:00",
+"ExpectedDepartureTime": "2019-08-04T22:22:33.930-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 3439.11,
+"DistanceFromCall": 217.9,
+"PresentableDistance": "< 1 stop away"
+}
+},
+"StopPointRef": "MTA_401364",
+"VisitNumber": 1,
+"StopPointName": "7 AV/W 25 ST"
+},
+"OnwardCalls": {
+"OnwardCall": [
+{
+"ExpectedArrivalTime": "2019-08-04T22:22:33.930-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 0,
+"CallDistanceAlongRoute": 3439.11,
+"DistanceFromCall": 217.9,
+"PresentableDistance": "< 1 stop away"
+}
+},
+"StopPointRef": "MTA_401364",
+"StopPointName": "7 AV/W 25 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:23:10.819-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 1,
+"CallDistanceAlongRoute": 3612.21,
+"DistanceFromCall": 390.99,
+"PresentableDistance": "1 stop away"
+}
+},
+"StopPointRef": "MTA_404244",
+"StopPointName": "7 AV/W 23 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:24:01.560-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 2,
+"CallDistanceAlongRoute": 3838.85,
+"DistanceFromCall": 617.63,
+"PresentableDistance": "2 stops away"
+}
+},
+"StopPointRef": "MTA_401366",
+"StopPointName": "7 AV/W 20 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:24:39.129-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 3,
+"CallDistanceAlongRoute": 4051.07,
+"DistanceFromCall": 829.85,
+"PresentableDistance": "0.5 miles away"
+}
+},
+"StopPointRef": "MTA_405298",
+"StopPointName": "7 AV/W 17 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:25:34.118-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 4,
+"CallDistanceAlongRoute": 4297.79,
+"DistanceFromCall": 1076.57,
+"PresentableDistance": "0.7 miles away"
+}
+},
+"StopPointRef": "MTA_405150",
+"StopPointName": "7 AV/WEST 14 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:27:31.834-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 5,
+"CallDistanceAlongRoute": 4691.87,
+"DistanceFromCall": 1470.65,
+"PresentableDistance": "0.9 miles away"
+}
+},
+"StopPointRef": "MTA_401371",
+"StopPointName": "7 AV S/WAVERLY PL"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:27:56.884-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 6,
+"CallDistanceAlongRoute": 4828.29,
+"DistanceFromCall": 1607.07,
+"PresentableDistance": "1.0 miles away"
+}
+},
+"StopPointRef": "MTA_401372",
+"StopPointName": "7 AV S/W 10 ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:28:35.971-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 7,
+"CallDistanceAlongRoute": 5014.76,
+"DistanceFromCall": 1793.55,
+"PresentableDistance": "1.1 miles away"
+}
+},
+"StopPointRef": "MTA_401373",
+"StopPointName": "7 AV S/BARROW ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:29:30.203-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 8,
+"CallDistanceAlongRoute": 5270.08,
+"DistanceFromCall": 2048.87,
+"PresentableDistance": "1.3 miles away"
+}
+},
+"StopPointRef": "MTA_401374",
+"StopPointName": "7 AV S/BEDFORD ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:29:51.218-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 9,
+"CallDistanceAlongRoute": 5386.91,
+"DistanceFromCall": 2165.69,
+"PresentableDistance": "1.3 miles away"
+}
+},
+"StopPointRef": "MTA_401375",
+"StopPointName": "7 AV S/CLARKSON ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:31:24.919-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 10,
+"CallDistanceAlongRoute": 5679.9,
+"DistanceFromCall": 2458.68,
+"PresentableDistance": "1.5 miles away"
+}
+},
+"StopPointRef": "MTA_401377",
+"StopPointName": "VARICK ST/CHARLTON ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:32:25.699-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 11,
+"CallDistanceAlongRoute": 6039.32,
+"DistanceFromCall": 2818.1,
+"PresentableDistance": "1.8 miles away"
+}
+},
+"StopPointRef": "MTA_401379",
+"StopPointName": "VARICK ST/WATTS ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:34:27.484-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 12,
+"CallDistanceAlongRoute": 6488.04,
+"DistanceFromCall": 3266.82,
+"PresentableDistance": "2.0 miles away"
+}
+},
+"StopPointRef": "MTA_401380",
+"StopPointName": "VARICK ST/NORTH MOORE ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:35:38.613-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 13,
+"CallDistanceAlongRoute": 6893.52,
+"DistanceFromCall": 3672.3,
+"PresentableDistance": "2.3 miles away"
+}
+},
+"StopPointRef": "MTA_401381",
+"StopPointName": "W BROADWAY/DUANE ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:36:07.395-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 14,
+"CallDistanceAlongRoute": 7022.51,
+"DistanceFromCall": 3801.3,
+"PresentableDistance": "2.4 miles away"
+}
+},
+"StopPointRef": "MTA_402120",
+"StopPointName": "CHAMBERS ST/HUDSON ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:37:08.133-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 15,
+"CallDistanceAlongRoute": 7212.87,
+"DistanceFromCall": 3991.65,
+"PresentableDistance": "2.5 miles away"
+}
+},
+"StopPointRef": "MTA_404973",
+"StopPointName": "CHAMBERS ST/GREENWICH ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:37:31.163-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 16,
+"CallDistanceAlongRoute": 7335.87,
+"DistanceFromCall": 4114.65,
+"PresentableDistance": "2.6 miles away"
+}
+},
+"StopPointRef": "MTA_402080",
+"StopPointName": "CHAMBERS ST/WEST ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:38:23.608-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 17,
+"CallDistanceAlongRoute": 7537.58,
+"DistanceFromCall": 4316.36,
+"PresentableDistance": "2.7 miles away"
+}
+},
+"StopPointRef": "MTA_405062",
+"StopPointName": "NORTH END AV/WARREN ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:39:55.225-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 18,
+"CallDistanceAlongRoute": 7890.44,
+"DistanceFromCall": 4669.22,
+"PresentableDistance": "2.9 miles away"
+}
+},
+"StopPointRef": "MTA_403878",
+"StopPointName": "VESEY ST/NORTH END AV"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:43:02.358-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 19,
+"CallDistanceAlongRoute": 8602.4,
+"DistanceFromCall": 5381.18,
+"PresentableDistance": "3.3 miles away"
+}
+},
+"StopPointRef": "MTA_405124",
+"StopPointName": "SOUTH END AV/GATEWAY PLAZA"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:44:06.672-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 20,
+"CallDistanceAlongRoute": 8879.44,
+"DistanceFromCall": 5658.23,
+"PresentableDistance": "3.5 miles away"
+}
+},
+"StopPointRef": "MTA_405125",
+"StopPointName": "WEST THAMES ST/SOUTH END AV"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:44:43.753-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 21,
+"CallDistanceAlongRoute": 9051.09,
+"DistanceFromCall": 5829.87,
+"PresentableDistance": "3.6 miles away"
+}
+},
+"StopPointRef": "MTA_404979",
+"StopPointName": "BATTERY PL/3 PL"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:45:13.753-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 22,
+"CallDistanceAlongRoute": 9220.49,
+"DistanceFromCall": 5999.27,
+"PresentableDistance": "3.7 miles away"
+}
+},
+"StopPointRef": "MTA_404980",
+"StopPointName": "BATTERY PL/1 PL"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:46:13.739-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 23,
+"CallDistanceAlongRoute": 9496.58,
+"DistanceFromCall": 6275.36,
+"PresentableDistance": "3.9 miles away"
+}
+},
+"StopPointRef": "MTA_803164",
+"StopPointName": "BATTERY PL/WASHINGTON ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:47:24.094-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 24,
+"CallDistanceAlongRoute": 9742.1,
+"DistanceFromCall": 6520.88,
+"PresentableDistance": "4.1 miles away"
+}
+},
+"StopPointRef": "MTA_403953",
+"StopPointName": "STATE ST/BRIDGE ST"
+},
+{
+"ExpectedArrivalTime": "2019-08-04T22:48:09.494-04:00",
+"Extensions": {
+"Distances": {
+"StopsFromCall": 25,
+"CallDistanceAlongRoute": 9935.99,
+"DistanceFromCall": 6714.77,
+"PresentableDistance": "4.2 miles away"
+}
+},
+"StopPointRef": "MTA_803185",
+"StopPointName": "STATE ST/WHITEHALL ST"
+}
+]
+}
+},
+"RecordedAtTime": "2019-08-04T22:21:37.000-04:00"
+}
+],
+"ResponseTimestamp": "2019-08-04T22:21:41.588-04:00",
+"ValidUntil": "2019-08-04T22:22:41.588-04:00"
+}
+],
+"SituationExchangeDelivery": []
+}
+}
+}
